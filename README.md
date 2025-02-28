@@ -31,12 +31,10 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-FFF?style=for-the-badge&logo=PostgreSQL)
 ![SQL](https://img.shields.io/badge/-SQL-00A4EF?style=for-the-badge&logo=SQL)
 ![Redash](https://img.shields.io/badge/-Redash-E44D26?style=for-the-badge&logo=Redash)
-
-
-
-![Screenshot_43]([https://user-images.githubusercontent.com/104904113/202023317-31c193cc-7770-40fe-ac34-673237befc0e.jpg](https://github.com/PLBasov/PLBasov/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82.pdf))
 ![EXCEL](https://img.shields.io/badge/-EXCEL-FF?style=for-the-badge&logo=EXCEL)
 ![EXCEL](https://img.shields.io/badge/-Google_Sheets-FFF?style=for-the-badge&logo=GoogleSheets)
 ![GIT](https://img.shields.io/badge/-GIT-FFF?style=for-the-badge&logo=GIT)
 ![API](https://img.shields.io/badge/-API-FF6600?style=for-the-badge&logo=API)
 ![Airflow](https://img.shields.io/badge/-Airflow-77DDE7?style=for-the-badge&logo=AIRFLOW)
+
+![Сертификат](https://github.com/PLBasov/PLBasov/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82.pdf)
