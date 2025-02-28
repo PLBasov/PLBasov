@@ -37,4 +37,4 @@
 ![API](https://img.shields.io/badge/-API-FF6600?style=for-the-badge&logo=API)
 ![Airflow](https://img.shields.io/badge/-Airflow-77DDE7?style=for-the-badge&logo=AIRFLOW)
 
-![Сертификат](https://github.com/PLBasov/PLBasov/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82.pdf)
+![Сертификат](https://github.com/PLBasov/PLBasov/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82.png)
