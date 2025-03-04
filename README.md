@@ -11,9 +11,9 @@
 
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
-|Проект 1  Проверка 3-х гипотез  (__[github](https://github.com/PLBasov/Projects/blob/528fb10fa9c423c0218489bc62780d5551d61a16/Hypothesis%20testing/Hypothesis%20testing.ipynb)__)|Анализ данных, расчет продуктовых метрик (Retention, Conversion Rate, GMV, LTV и др.). Проверка гипотез, расчет ICE.|pandas,numpy,seaborn,  matplotlib,scipy|
-|Проект 2  А/Б тестирование и расчет метрик  (__[github](https://github.com/PLBasov/Projects/blob/528fb10fa9c423c0218489bc62780d5551d61a16/AB%20tests%2C%20metrics/AB%20tests%2C%20metrics.ipynb)__)|Расчет и анализ продуктовых метрик(ARPU, ARPPU, CR). Проведение А/Б тестирования |pandas,scipy,requests,SQL|
-|Проект 3  Создание DAG функций для Airflow  (__[github](https://github.com/PLBasov/Projects/tree/528fb10fa9c423c0218489bc62780d5551d61a16/Airflow%20functions)__)|Анализ данных, поиск нужной информации, создание DAG|pandas, Airflow|
+|Проект 1  Проверка 3-х гипотез  (__[github](https://github.com/PLBasov/Projects/tree/d2f17031b1ac18c793262b88b4a3a96477238e6c/Hypothesis%20testing)__)|Анализ данных, расчет продуктовых метрик (Retention, Conversion Rate, GMV, LTV и др.). Проверка гипотез, расчет ICE.|pandas,numpy,seaborn,  matplotlib,scipy|
+|Проект 2  А/Б тестирование и расчет метрик  (__[github](https://github.com/PLBasov/Projects/tree/d2f17031b1ac18c793262b88b4a3a96477238e6c/AB%20tests%2C%20metrics)__)|Расчет и анализ продуктовых метрик(ARPU, ARPPU, CR). Проведение А/Б тестирования |pandas,scipy,requests,SQL|
+|Проект 3  Создание DAG функций для Airflow  (__[github](https://github.com/PLBasov/Projects/tree/d2f17031b1ac18c793262b88b4a3a96477238e6c/Airflow%20functions)__)|Анализ данных, поиск нужной информации, создание DAG|pandas, Airflow|
 |Проект 4  DashBoard  (__[tableau](https://public.tableau.com/app/profile/pavel.basov/viz/Hotelsanalytics3/HotelsAnalytics3)__)|Создание дашборда с определнным набором графиков и фильтров(Фактоиды, line и bar charts, таблицы). Создание расчетных полей, параметров|Tableau|
 
 
